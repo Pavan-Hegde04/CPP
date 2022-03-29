@@ -1,0 +1,3 @@
+/home/pavan/Training/CPP/Day24_Cmake/CMakeFiles/rebuild_cache.dir
+/home/pavan/Training/CPP/Day24_Cmake/CMakeFiles/edit_cache.dir
+/home/pavan/Training/CPP/Day24_Cmake/CMakeFiles/hello.dir
